@@ -1,0 +1,8 @@
+record_id,natural_key,source_ref,bin,color,weight,price,region,sku,vendor_id,vendor_name,tags_0
+1,1001,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,A3,red,1.2,19.99,us-east,A-100,77,Acme,new
+2,1002,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,C1,blue,0.8,34.5,eu-west,B-220,81,Globex,clearance
+3,1003,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,B7,green,2.4,7.25,ap-south,C-330,,,
+4,1004,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,A4,red,1.1,12.0,us-east,D-440,77,Acme,
+5,1005,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,D2,black,5.0,88.75,us-west,E-550,103,Umbrella,new
+6,1006,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,E9,white,0.3,,,,,,
+7,1007,/home/mmm/Projects/Tools/metadata-extractor/sample_data.csv,F2,grey,1.9,,,,,,

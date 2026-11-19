@@ -1,0 +1,8 @@
+id,name,created,metadata,attributes,notes
+1001,Widget A,2026-01-04,"{""sku"":""A-100"",""region"":""us-east"",""price"":19.99,""tags"":[""new"",""sale""],""vendor"":{""id"":77,""name"":""Acme""}}",color=red;weight=1.2;bin=A3,first batch
+1002,Gadget B,2026-01-07,"{""sku"":""B-220"",""region"":""eu-west"",""price"":34.50,""tags"":[""clearance""],""vendor"":{""id"":81,""name"":""Globex""}}",color=blue;weight=0.8;bin=C1,
+1003,Doohickey C,2026-02-11,"<item><sku>C-330</sku><region>ap-south</region><price>7.25</price><vendor id=""92"">Initech</vendor></item>",color=green;weight=2.4;bin=B7,xml row on purpose
+1004,Widget D,2026-02-19,"{""sku"":""D-440"",""region"":""us-east"",""price"":12.00,""tags"":[],""vendor"":{""id"":77,""name"":""Acme""}}",color=red;weight=1.1;bin=A4,
+1005,Gizmo E,2026-03-02,"{""sku"":""E-550"",""region"":""us-west"",""price"":88.75,""tags"":[""new""],""vendor"":{""id"":103,""name"":""Umbrella""}}",color=black;weight=5.0;bin=D2,heavy
+1006,Broken F,2026-03-08,"{""sku"":""F-660"",""region"":,,,}",color=white;weight=0.3;bin=E9,malformed json on purpose
+1007,Thing G,2026-03-15,,color=grey;weight=1.9;bin=F2,empty metadata on purpose
